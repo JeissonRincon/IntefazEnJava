@@ -1,4 +1,4 @@
 
-TAREA1
+Entrega 1
 
-Creacion de una ventana
+Creacion de una ventana basica
