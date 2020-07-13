@@ -1,3 +1,3 @@
-TAREA 2
+ENTREGA 2
 
-Login de usuario
+Se crea la ventana de Login de Usuario con sus objetos graficos sencillos
