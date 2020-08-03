@@ -1,0 +1,3 @@
+Jocker087&12345&recursos/imagenes/Perfiles/jocker.jpg
+AlsNucita&98765&recursos/imagenes/Perfiles/alss.png
+RiverEscence&13579&recursos/imagenes/Perfiles/river.png
